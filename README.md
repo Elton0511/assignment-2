@@ -1,1 +1,2 @@
 # assignment-2
+this is a tamagotchi app ,the animal that is used is a tiger cub ,there are three buttons that have three different functions the first button functin is the feed the animal the second button function is to bath the animal the third button function is to play with the animal .It is a progressbar function that shows how close you are to finishing the tasks and has different images shown for the different actions that are done when the button is pressed 
